@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=Latch_IN Pin=IDE1-2
+Removed Pin From Net: NetName=Data_IN Pin=IDE1-4
+Removed Pin From Net: NetName=Clock_IN Pin=IDE1-6
+Removed Pin From Net: NetName=OE_IN Pin=IDE1-8
+Removed Pin From Net: NetName=4094_Latch Pin=IDE2-2
+Removed Pin From Net: NetName=4094_Data_OUT Pin=IDE2-4
+Removed Pin From Net: NetName=4094_Clock Pin=IDE2-6
+Removed Pin From Net: NetName=OE Pin=IDE2-8
+Added Pin To Net: NetName=OE_IN Pin=IDE1-2
+Added Pin To Net: NetName=Clock_IN Pin=IDE1-4
+Added Pin To Net: NetName=Data_IN Pin=IDE1-6
+Added Pin To Net: NetName=Latch_IN Pin=IDE1-8
+Added Pin To Net: NetName=OE Pin=IDE2-2
+Added Pin To Net: NetName=4094_Clock Pin=IDE2-4
+Added Pin To Net: NetName=4094_Data_OUT Pin=IDE2-6
+Added Pin To Net: NetName=4094_Latch Pin=IDE2-8
+Added Room: Name=sche_DPN_ControlLed

@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P9
+Change Component Designator: OldDesignator=P? NewDesignator=P10
+Added Member To Class: ClassName=sche_DPN_ControlLed Member=Component P10 CON 2 EDG5.08

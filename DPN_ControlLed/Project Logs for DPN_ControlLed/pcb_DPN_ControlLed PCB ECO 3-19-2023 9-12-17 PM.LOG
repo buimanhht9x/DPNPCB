@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=IDE1 Old Footprint=IDE 10 DT New Footprint=IDE10_Cong
+Change Component Footprint: Designator=IDE2 Old Footprint=IDE 10 DT New Footprint=IDE10_Cong
+Added Room: Name=sche_DPN_ControlLed
